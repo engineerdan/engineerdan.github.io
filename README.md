@@ -1,1 +1,3 @@
-# Kotref blog.
+# Kotref blog
+
+Underlying notebooks for blog.
